@@ -9,7 +9,7 @@ for i in range(2000,3201):
         if i%5==0:
             continue;
         else:
-            print(str(i))
+            print(str(i)+",")
 
 """ 2. Write a Python program to accept the user's first  and last name and then getting them printed 
 in the reverse order with space between first name and last name.
